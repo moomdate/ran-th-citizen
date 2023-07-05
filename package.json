@@ -1,0 +1,27 @@
+{
+  "name": "rancitizen",
+  "version": "0.0.1",
+  "description": "random thai citizen with cli",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moomdate/ran-th-citizen.git"
+  },
+  "keywords": [
+    "random",
+    "thai",
+    "citizen"
+  ],
+  "bin": {  
+    "ranci": "./bin/index.js"  
+  },
+  "author": "moomdate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moomdate/ran-th-citizen/issues"
+  },
+  "homepage": "https://github.com/moomdate/ran-th-citizen#readme"
+}
