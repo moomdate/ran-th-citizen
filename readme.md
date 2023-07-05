@@ -1,7 +1,11 @@
 #### installation
 `npm i rancitizen -g`
 #### How to use
-`$ranci`
+```shell
+$ ranci
+```
 
 #### Example in Mac
-`ranci | pbcopy`
+```shell
+$ ranci | pbcopy #Copied you can paste it
+```
