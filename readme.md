@@ -1,6 +1,5 @@
 #### Description
-Random Thai citizen using cli
-
+Random Thai citizen ID using cli
 #### Installation
 `npm i rancitizen -g`
 #### How to use
